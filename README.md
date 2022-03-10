@@ -2,7 +2,7 @@
 
 Personal website which serves as a resume and cv
 
-## technologies used:
+## Technologies Used:
 
 * HTML
 * CSS
