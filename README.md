@@ -1,8 +1,8 @@
 # christianmbonet.github.io
 
-Personal website which serves as resume and cv.
+Personal website which serves as a resume and cv
 
-## Technologies Used:
+## technologies used:
 
 * HTML
 * CSS
